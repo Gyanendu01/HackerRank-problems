@@ -6,4 +6,4 @@ if n > 0:
             sum = sum+(n%10) 
         n = n//10
 
-print("\nSum Digits is: {}".format(sum))
+print("\nSum Of Prime digitss is: {}".format(sum))

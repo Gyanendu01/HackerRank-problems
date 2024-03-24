@@ -5,4 +5,4 @@ if n > 0:
         numOfDigits += 1
         n = n//10
 
-print("\nNumber Digits is: {}".format(numOfDigits))
+print("\nNumber of Digits is: {}".format(numOfDigits))
